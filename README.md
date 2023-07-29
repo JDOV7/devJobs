@@ -4,7 +4,7 @@
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
-## Informacion General
+## General Info
 ***
 Esta es una aplicacion web que tiene como finalidad que reclutadores publiquen ofertas de trabajo sobre desarrollo, asi como tambien dasarrolladores apliquen a estas vacantes
 
