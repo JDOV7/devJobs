@@ -1,48 +1,27 @@
 ## Table of Contents
 1. [Informacion General](#informacion-general)
-2. [Technologies](#technologies)
+2. [Tecnologias](#tecnologias)
 3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
 ## Informacion General
 ***
 Esta es una aplicacion web que tiene como finalidad que reclutadores publiquen ofertas de trabajo sobre desarrollo, asi como tambien dasarrolladores apliquen a estas vacantes
 
-## Technologies
+## Tecnologias
 ***
-A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+Tecnologias usadas:
+* [NodeJS]: Version 18.14.2
+* [Express]: Version 4.18.2
+* [Mongoose]: Version 7.4.0
+* [Mongoose]: Version 1.4.5-lts.1
+* [Nodemailer]: Version 6.9.4
+* [Trix](https://github.com/basecamp/trix/tree/custom-elements-v1): Version 1
 ## Installation
 ***
-A little intro about the installation. 
+Para la instalacion, primero tener ```node 18.14.2```
 ```
-$ git clone https://example.com
+$ git clone https://github.com/JDOV7/devJobs.git
 $ cd ../path/to/the/file
 $ npm install
-$ npm start
+$ npm run desarrollo
 ```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
-## Collaboration
-***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
-## FAQs
-***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer of the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer of the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+Ademas de esto se debe tener una base de datos en Mongo y tener una cuenta en mailtrap para probar los correos.
