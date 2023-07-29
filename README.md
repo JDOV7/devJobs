@@ -1,5 +1,5 @@
 ## Table of Contents
-1. [Informacion General](#general-info)
+1. [Informacion General](#informacion-general)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
