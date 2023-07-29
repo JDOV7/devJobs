@@ -4,8 +4,9 @@
 3. [Instalacion](#instalacion)
 ## Informacion General
 ***
-Esta es una aplicacion web que tiene como finalidad que reclutadores publiquen ofertas de trabajo sobre desarrollo, asi como tambien dasarrolladores apliquen a estas vacantes
-
+Esta es una aplicacion web que tiene como finalidad que reclutadores publiquen ofertas de trabajo sobre desarrollo, asi como tambien dasarrolladores apliquen a estas vacantes, la aplicacion cuenta con las siguientes funcionalidades:
+* NodeJS: Version 18.14.2
+* Express: Version 4.18.2
 ## Tecnologias
 ***
 Tecnologias usadas:
