@@ -13,7 +13,7 @@ Cuenta con las siguientes funcionalidades:
         *Actualizar vacante
         *Eliminar vacante
         *Subir imagenes y pdfs
-
+ 
 Tecnologias usadas:
         *Node
         *Express
