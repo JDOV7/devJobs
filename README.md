@@ -5,8 +5,17 @@
 ## Informacion General
 ***
 Esta es una aplicacion web que tiene como finalidad que reclutadores publiquen ofertas de trabajo sobre desarrollo, asi como tambien dasarrolladores apliquen a estas vacantes, la aplicacion cuenta con las siguientes funcionalidades:
-* NodeJS: Version 18.14.2
-* Express: Version 4.18.2
+* Creacion de cuentas con envio de correo para validar
+* Inicio de sesion
+* Cierre de sesion
+* Actualizacion de perfil con cambio de foto de perfil
+* Reestablecimiento de contraseña con envio de correo para validacion
+* Creacion de vacante
+* Actualizacion de vacante
+* Eliminacion de vacante
+* Busqueda de vacante
+* Aplicar a vacante
+* Envio de CV por medio de archivo PDF
 ## Tecnologias
 ***
 Tecnologias usadas:
