@@ -6,9 +6,8 @@
 5. [FAQs](#faqs)
 ### General Info
 ***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+Esta es una aplicacion web que tiene como finalidad que reclutadores publiquen ofertas de trabajo sobre desarrollo, asi como tambien dasarrolladores apliquen a estas vacantes
+
 ## Technologies
 ***
 A list of technologies used within the project:
